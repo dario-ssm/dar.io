@@ -47,7 +47,7 @@ website:
       #   href: https://twitter.com
 
   page-footer:
-    background: light
+    background: dark
     right: "Made with Quarto"
   # back-to-top-navigation: true
 
