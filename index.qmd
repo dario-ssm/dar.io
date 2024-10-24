@@ -2,7 +2,7 @@
 title: "Darío San Segundo Molina"
 about:
   template: trestles
-  image: yoo.jpg
+  image: Dario2.png
   links:
     - icon: envelope
       # text: email
